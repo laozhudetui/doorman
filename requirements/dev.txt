@@ -34,7 +34,7 @@ funcsigs==1.0.2
 idna==2.8
 ipaddress==1.0.22
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jsmin==2.2.2
 kombu==4.2.2.post1
 ldap3==2.5.2
@@ -47,7 +47,7 @@ pathlib2==2.3.3
 pbr==5.1.1
 pluggy==0.8.0
 psycopg2-binary==2.7.6.1
-py==1.7.0
+py==1.10.0
 pyasn1==0.4.5
 pycparser==2.19
 pytest==4.0.2
@@ -60,14 +60,14 @@ requests==2.21.0
 scandir==1.9.0
 six==1.12.0
 soupsieve==1.6.2
-SQLAlchemy==1.2.15
+SQLAlchemy==1.2.18
 text-unidecode==1.2
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.26.5
 vine==1.1.4
-waitress==1.1.0
+waitress==1.4.2
 webassets==0.12.1
 WebOb==1.8.5
 WebTest==2.0.32
-Werkzeug==0.14.1
-WTForms==2.2.1
+Werkzeug==0.15.3
+WTForms==3.0.0a1
