@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.15.4
 
 # Install Python
 RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories \
