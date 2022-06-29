@@ -22,6 +22,6 @@
   "homepage": "https://github.com/mwielgoszewski/doorman#readme",
   "dependencies": {
     "bower": "^1.7.9",
-    "less": "^2.7.1"
+    "less": "^3.0.2"
   }
 }
