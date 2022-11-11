@@ -26,7 +26,7 @@ Flask-SSLify==0.1.5
 Flask-WTF==0.14.2
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jsmin==2.2.2
 kombu==4.2.2.post1
 ldap3==2.5.2
@@ -43,10 +43,10 @@ raven==6.10.0
 redis==3.0.1
 requests==2.21.0
 six==1.12.0
-SQLAlchemy==1.2.15
+SQLAlchemy==1.2.18
 unicodecsv==0.14.1
 urllib3==1.24.1
 vine==1.1.4
 webassets==0.12.1
-Werkzeug==0.14.1
-WTForms==2.2.1
+Werkzeug==0.15.3
+WTForms==2.3.0
