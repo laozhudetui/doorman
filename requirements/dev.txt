@@ -17,7 +17,7 @@ cssmin==0.2.0
 enum34==1.1.6
 factory-boy==2.11.1
 Faker==1.0.1
-Flask==1.0.2
+Flask==2.2.5
 Flask-Assets==0.12
 Flask-Bcrypt==0.7.1
 Flask-DebugToolbar==0.10.1
