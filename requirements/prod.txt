@@ -41,7 +41,7 @@ python-editor==1.0.3
 pytz==2018.7
 raven==6.10.0
 redis==3.0.1
-requests==2.21.0
+requests==2.32.4
 six==1.12.0
 SQLAlchemy==1.2.15
 unicodecsv==0.14.1
