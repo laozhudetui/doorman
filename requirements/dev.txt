@@ -48,7 +48,7 @@ pbr==5.1.1
 pluggy==0.8.0
 psycopg2-binary==2.7.6.1
 py==1.7.0
-pyasn1==0.4.5
+pyasn1==0.6.2
 pycparser==2.19
 pytest==4.0.2
 python-dateutil==2.7.5
